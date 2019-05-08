@@ -1,0 +1,18 @@
+{
+  "name": "@jarvis.oddle/audits",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Oddle Frontend Team",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "chrome-launcher": "^0.10.7",
+    "express": "^4.16.4",
+    "express-queue": "^0.0.12",
+    "lighthouse": "^5.0.0"
+  }
+}
