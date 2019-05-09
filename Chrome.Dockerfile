@@ -1,7 +1,5 @@
 FROM node:10.14
 
-EXPOSE 50000
-
 RUN apt-get update
 
 # Install x11vnc.
